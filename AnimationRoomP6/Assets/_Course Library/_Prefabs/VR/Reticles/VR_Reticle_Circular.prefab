@@ -96,4 +96,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d09629e5507f3414ca3f0dda63a9807e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 20
+  reticleCircular: {fileID: 8656087483511947524}
